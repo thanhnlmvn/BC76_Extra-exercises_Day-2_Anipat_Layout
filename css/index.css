@@ -424,6 +424,11 @@ a:hover {
   font-size: 16px;
 }
 
+.info__title button:hover {
+  background-color: white;
+  color: #ff3500;
+}
+
 .info__title a {
   font-weight: 600;
   color: #fff;
