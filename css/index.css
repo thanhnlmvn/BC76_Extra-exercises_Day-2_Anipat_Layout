@@ -425,8 +425,8 @@ a:hover {
 }
 
 .info__title button:hover {
-  background-color: white;
-  color: #ff3500;
+  background-color: #ff3500;
+  color: white;
 }
 
 .info__title a {
